@@ -28,3 +28,9 @@ p{
     left: 50%;
     transform: translate(-50%,-50%);
 }
+
+#date{
+    width: 200px;
+    padding: 15px;
+    font-size: 25px;
+}
