@@ -10,6 +10,8 @@ let birthday = new Date('date');
 let dayOfWeek = birthday.getDay();
 
 if(maleGender){
-
-
+    akanName.innerHTML = "Your name is:" + maleNames[dayOfWeek];
+    
 }
+
+
