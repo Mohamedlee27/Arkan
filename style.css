@@ -50,3 +50,9 @@ p{
     border-radius: 10px;
     color: white;
 }
+
+#name{
+    text-align: center;
+    font-size: 50px;
+    color: green;
+}
