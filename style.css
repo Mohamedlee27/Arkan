@@ -34,3 +34,9 @@ p{
     padding: 15px;
     font-size: 25px;
 }
+
+.gender{
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
