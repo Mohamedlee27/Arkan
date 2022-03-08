@@ -6,3 +6,4 @@ let femaleGender = document.getElementById('female').value;
 let submit = document.getElementById('submit');
 
 let birthday = new Date('date');
+let dayOfWeek = birthday.getDay();
